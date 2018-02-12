@@ -65,7 +65,7 @@ df = pd.DataFrame.from_dict(dic)
 # In[289]:
 
 
-df
+print(df)
 
 
 # ## Find phone numbers
@@ -181,7 +181,7 @@ df['Filtered'] = [' '.join(liste) for liste in Filtered]
 # In[299]:
 
 
-df
+print(df)
 
 
 # ## Shrink the vector space
@@ -260,7 +260,7 @@ df.head()
 # In[283]:
 
 
-df[df['Cluster'] == 5]
+print(df[df['Cluster'] == 5])
 
 
 # ## Produce a basic analysis of the result
