@@ -8,4 +8,4 @@ I was too lazy to find internet sites that had phone numbers and were of differe
 
 Since the wescraped pages will be different then those I did my analysis on, I added a jupyter notebook with all my results (Notebook.ipynb).
 
-Overall, I'd suggest to run the code like explained above, and have a look on the analysis I did in the jupyter notebook. Check out everything on my GitHub ! https://github.com/JM-data/NLP-on-Webscrapped-Wikipedia-articles/
+Overall, I'd suggest to run the code like explained above, and have a look on the analysis I did in the jupyter notebook. Check out everything it out !
