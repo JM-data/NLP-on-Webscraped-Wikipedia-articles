@@ -1,4 +1,4 @@
-# Dathena Intern Technical Test
+# NLP on Webscraped Wikipedia articles 
 
 This short folder illustrates how to answer the Technical Test given by Dathena. To run it, please have all the packages in the requirements text file and run a command file in the src folder and write :'python Code_Python_Dathena.py'. It needs time to webscrap 50 texts.
 
